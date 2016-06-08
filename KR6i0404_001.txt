@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:11.860382
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 佛說大乘稻芉經
 #+PROPERTY: CBETA_ID T16n0712
 #+PROPERTY: ID KR6i0404
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 712
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0404_T_000-0823b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0404_T_001-0823b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.712[Nos.708-711]¶
-
- 《佛說大乘稻芉經》¶
+No. 712 [Nos. 708-711]¶
+《佛說大乘稻芉經》¶
 ¶
 
 如是我聞：
@@ -25,7 +24,7 @@ No.712[Nos.708-711]¶
 爾時具壽舍利子往彌勒菩薩摩訶薩經¶
 行之處，到已，共相慰問，俱坐盤陀石上。是時¶
 具壽舍利子向彌勒菩薩摩訶薩作如是言：¶
-「彌勒！今日世尊觀見稻芉，告諸比丘作如是¶
+「彌勒！今日世尊觀見稻芋，告諸比丘作如是¶
 說：『諸比丘！若見因緣，彼即見法；若見於法，即¶
 能見佛。』作是語已，默然無言。彌勒！善逝何故
 <pb:KR6i0404_T_001-0823c>¶
